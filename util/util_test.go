@@ -1,8 +1,9 @@
 package util
 
 import (
-	"ejercicio-triangulos/models"
 	"testing"
+
+	"github.com/juanjgfredes/ejercicio-triangulo.git/models"
 )
 
 func TestReadMakePoint(t *testing.T) {

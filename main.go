@@ -1,9 +1,10 @@
 package main
 
 import (
-	"ejercicio-triangulos/util"
 	"fmt"
 	"os"
+
+	"github.com/juanjgfredes/ejercicio-triangulo.git/util"
 )
 
 func main() {

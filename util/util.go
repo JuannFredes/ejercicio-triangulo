@@ -2,11 +2,12 @@ package util
 
 import (
 	"bufio"
-	"ejercicio-triangulos/models"
 	"fmt"
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/juanjgfredes/ejercicio-triangulo.git/models"
 )
 
 /*
